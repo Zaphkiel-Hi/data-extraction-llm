@@ -1,1 +1,10 @@
-
+!pip install -Uqqq pip --progress-bar off
+!pip install -qqq torch==2.0.1 --progress-bar off
+!pip install -qqq transformers==4.31.0 --progress-bar off
+!pip install -qqq langchain==0.0.266 --progress-bar off
+!pip install -qqq chromadb==0.4.5 --progress-bar off
+!pip install -qqq pypdf==3.15.0 --progress-bar off
+!pip install -qqq xformers==0.0.20 --progress-bar off
+!pip install -qqq sentence_transformers==2.2.2 --progress-bar off
+!pip install -qqq InstructorEmbedding==1.0.1 --progress-bar off
+!pip install -qqq pdf2image==1.16.3 --progress-bar off
